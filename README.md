@@ -1,1 +1,1 @@
-Django
+Foro python/Django (Aprendiendo Django)
